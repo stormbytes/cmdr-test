@@ -1,0 +1,25 @@
+{
+  "name": "cmdr-test",
+  "version": "0.0.1",
+  "description": "quick test of the file loading feature (commander-starter demo app)",
+  "main": "index.js",
+  "bin":{
+		"app":"bin/app"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormbytes/cmdr-test.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stormbytes/cmdr-test/issues"
+  },
+  "homepage": "https://github.com/stormbytes/cmdr-test#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
